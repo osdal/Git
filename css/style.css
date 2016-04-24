@@ -66,15 +66,11 @@ h2>a{
 .live-flowers{
     list-style-image: url(/img/pollen_flower.png);
 }
-<<<<<<< HEAD
-=======
 .live-flowers:after{
     content: url(/img/label_new_red.png);
 }
->>>>>>> origin/work_branch
-
 .synthetic-flowers{
-    list-style-image: url(/img/flowers_syntetic.png);
+   list-style-image: url(/img/flowers_syntetic.png);
 }
 .toys{
     list-style-image: url(/img/package_toys.png);
@@ -85,25 +81,21 @@ h2>a{
 .constructor{
     list-style-image: url(/img/technology.png);
 }
-<<<<<<< HEAD
-=======
 .constructor:after{
     content: url(/img/label_new_red.png);
 }
->>>>>>> origin/work_branch
-    
+
 .books{
     list-style-image: url(/img/folder_home2.png);
 }
 .audio-books{
     list-style-image: url(/img/folder_audio_book.png);
 }
-<<<<<<< HEAD
-=======
+
 .audio-books:after{
     content: url(/img/label_new_red.png);
 }
->>>>>>> origin/work_branch
+
 .soft-books{
     list-style-image: url(/img/address_book.png);
 }
